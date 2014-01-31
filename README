@@ -1,0 +1,12 @@
+Implementation of a priority queue and in turn use of it to implement the
+heapsort algorithm.
+
+To partially test the implementation type:
+
+java -jar HuffCompress.jar [your_file]
+
+then
+
+java -jar HuffCompress12.jar [your_file]
+
+With the correct implementation, the output of the commands should  be the same
